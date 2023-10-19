@@ -1,0 +1,39 @@
+.background-index{
+    background: url('back0.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.background-Omoss {
+    background: url('back0.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+}
+.background-produkt{
+    background: url('back0.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.img-fluid{
+    height: 300px;
+    width:auto;
+    object-fit: cover;
+}
+.golden-text{
+    color: rgb(192, 132, 90);
+}
+.bold-text{
+    color: rgb(239, 218, 189);
+}
+body{
+    font-family: 'Playfair Display', serif;
+}
+.brand-title{
+   color:#c05915
+}
